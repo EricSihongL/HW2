@@ -1,0 +1,28 @@
+right();
+right();
+
+if(getColor()=="red") {
+	up();
+}
+if(getColor()=="blue") {
+	down();
+}
+right();
+right();
+if(getColor()=="red") {
+	up();
+}
+if(getColor()=="blue") {
+	down();
+}
+right();
+right();
+if(getColor()=="red") {
+	up();
+}
+if(getColor()=="blue") {
+	down();
+}
+right();
+right();
+right();
